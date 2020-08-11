@@ -33,8 +33,8 @@ options:
     required: True
     type: str
 requirements:
-  - Ansible 2.9 or later
-  - Nimble OS 5.1.4 or later
+  - Ansible 2.10 or later
+  - Nimble OS 5.0 or later
   - HPE Nimble Storage SDK for Python 1.0.0 or later (nimble-sdk Python module)
 
 notes:
